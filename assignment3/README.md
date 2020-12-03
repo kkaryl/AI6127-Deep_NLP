@@ -21,7 +21,6 @@ Topic: Subword Models
 
 ## References
 
-Alexandra Birch Rico Sennrich Barry Haddow. Subword Neural Machine Translation. https://github.
-com/rsennrich/subword-nmt. 2016.
+Alexandra Birch Rico Sennrich Barry Haddow. Subword Neural Machine Translation. https://github.com/rsennrich/subword-nmt. 2016.
 
 John Richardson Taku Kudo. SentencePiece. https://github.com/google/sentencepiece. 2018.
