@@ -8,5 +8,5 @@ Main Tasks:
 
 ## Q1: NER model
 
-I lost the question paper. :P
+I may have forgot to save the question paper. :P
 
