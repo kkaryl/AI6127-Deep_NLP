@@ -1,7 +1,7 @@
 # AI6127-Deep_NLP
 This repository contains source code implementation of assignments for NTU's MSAI course AI6127 on Deep Neural Networks for Natural Language Processing (2019 Sem 2).
 
-There are a total of 3 individual assignments and 1 group project in this repository.
+There are a total of 3 individual assignments in this repository.
 
 ## Assignment Topics
 
